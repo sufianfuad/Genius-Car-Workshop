@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Tire Repairing",
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/PCN8fcq/1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt deleniti odio repellendus quibusdam placeat veniam."
+    },
+    {
+        "id": 2,
+        "name": "Break Repairing",
+        "price": 1500,
+        "time": 1,
+        "img": "https://i.ibb.co/Qc0dpSh/2.jpg",
+        "description": "Culpa soluta omnis architecto distinctio repellat tempore mollitia adipisci, odio voluptas nam animi voluptatibus debitis."
+    },
+    {
+        "id": 3,
+        "name": "Car Engineer",
+        "price": 8000,
+        "time": 2,
+        "img": "https://i.ibb.co/sKQhw4z/3.jpg",
+        "description": " Dicta odio at ratione perferendis accusantium. Nesciunt dolor quis, natus nobis quas blanditiis veritatis fugit."
+    },
+    {
+        "id": 4,
+        "name": "Engine Repairing",
+        "price": 9000,
+        "time": 5,
+        "img": "https://i.ibb.co/26qHYq5/4.jpg",
+        "description": "Error ullam, laboriosam, dolores aliquam dolorum qui aspernatur nulla illo et officia deserunt repellat eius."
+    },
+    {
+        "id": 5,
+        "name": "Wash Service",
+        "price": 3000,
+        "time": 3,
+        "img": "https://i.ibb.co/ZHkGFf1/5.jpg",
+        "description": " Modi officiis iure quae qui tempora hic dolores dicta nostrum tempore a! Quasi, fugiat dicta"
+    },
+    {
+        "id": 6,
+        "name": "CarMotor Repairing",
+        "price": 1000,
+        "time": 4,
+        "img": "https://i.ibb.co/7tfjm68/6.jpg",
+        "description": "Amet eos ea delectus quod aut asperiores, ipsum quasi consequuntur ex expedita? Deserunt."
+    }
+]

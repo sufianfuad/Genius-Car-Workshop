@@ -1,3 +1,13 @@
+const services = [
+    { id: 1, name: 'Tire Repairing', price: 2000, time: 2, img: 'https://ibb.co/SvPp9tF', description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt deleniti odio repellendus quibusdam placeat veniam.' },
+    { id: 2, name: 'Break Repairing', price: 1500, time: 1, img: 'https://ibb.co/1nc67yB', description: 'Culpa soluta omnis architecto distinctio repellat tempore mollitia adipisci, odio voluptas nam animi voluptatibus debitis.' },
+    { id: 3, name: 'Car Engineer', price: 8000, time: 2, img: 'https://ibb.co/rxMg6hN', description: ' Dicta odio at ratione perferendis accusantium. Nesciunt dolor quis, natus nobis quas blanditiis veritatis fugit.' },
+    { id: 4, name: 'Engine Repairing', price: 9000, time: 5, img: 'https://ibb.co/TTcdqcr', description: 'Error ullam, laboriosam, dolores aliquam dolorum qui aspernatur nulla illo et officia deserunt repellat eius.' },
+    { id: 5, name: 'Wash Service', price: 3000, time: 3, img: 'https://ibb.co/Q81pTJj', description: ' Modi officiis iure quae qui tempora hic dolores dicta nostrum tempore a! Quasi, fugiat dicta' },
+    { id: 6, name: 'CarMotor Repairing', price: 1000, time: 4, img: 'https://ibb.co/LdFY72b', description: 'Amet eos ea delectus quod aut asperiores, ipsum quasi consequuntur ex expedita? Deserunt.' },
+]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
